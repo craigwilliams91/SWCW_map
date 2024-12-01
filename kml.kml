@@ -1,0 +1,2861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+				<Placemark>
+			<name><![CDATA[ Abbey Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Abbey_Buttress">Abbey Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-3.763139,51.58499,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Abercregan]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Abercregan">Abercregan</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6720153,51.6504996,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Abercynon High Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Abercynon_High_Buttress">Abercynon High Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-3.326472,51.654376,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Abertysswg]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Abertysswg">Abertysswg</a></b>]]></description>
+			<Point>
+				<coordinates>-3.249022,51.735796,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Above Freelunchers Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Above_Freelunchers_Zawn">Above Freelunchers Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.257335,51.550651,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Anemone Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Anemone_Wall">Anemone Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.101229,51.565471,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Apple Tree Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Apple_Tree_Buttress">Apple Tree Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-3.763952,51.611305,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bacon Hole]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bacon_Hole">Bacon Hole</a></b>]]></description>
+			<Point>
+				<coordinates>-4.078282,51.561947,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Baltic Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Baltic_Quarry">Baltic Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.357142,51.796196,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bargoed]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bargoed">Bargoed</a></b>]]></description>
+			<Point>
+				<coordinates>-3.228714,51.6966,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Barland Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Barland_Quarry">Barland Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.0580303,51.5861193,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Below East Gully Groove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Below_East_Gully_Groove">Below East Gully Groove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.256228,51.550047,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Black Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Black_Buttress">Black Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.302656,51.565474,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Black Hole Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Black_Hole_Crag">Black Hole Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-4.24106,51.544282,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Black Streak Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Black_Streak_Crag">Black Streak Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-4.229663,51.543546,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Black Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Black_Wall">Black Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.294105,51.569264,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Black Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Black_Zawn">Black Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-3.605796,51.442243,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Blackhole Gut]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Blackhole_Gut">Blackhole Gut</a></b>]]></description>
+			<Point>
+				<coordinates>-4.248656,51.547641,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Blaen Bran Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Blaen_Bran_Quarry">Blaen Bran Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.0645365,51.66683,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Blaengwynfi]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Blaengwynfi">Blaengwynfi</a></b>]]></description>
+			<Point>
+				<coordinates>-3.598834,51.657644,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Blaenllechau]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Blaenllechau">Blaenllechau</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4409201,51.661308,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Block Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Block_Buttress">Block Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.282313,51.561053,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Blue Pool Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Blue_Pool_Area">Blue Pool Area</a></b>]]></description>
+			<Point>
+				<coordinates>-4.305514,51.612197,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Boiler Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Boiler_Slab">Boiler Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.236298,51.542704,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bosco's Den Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bosco%27s_Den_Area">Bosco's Den Area</a></b>]]></description>
+			<Point>
+				<coordinates>-4.080095,51.56206,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bowen's Parlour]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bowen%27s_Parlour">Bowen's Parlour</a></b>]]></description>
+			<Point>
+				<coordinates>-4.082703,51.561823,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Box Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Box_Bay">Box Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-3.72272,51.48412,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bridge Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bridge_Cliff">Bridge Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4014836,51.763809,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Brittania Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Brittania_Quarry">Brittania Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.394512,51.602786,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Brombil Woods Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Brombil_Woods_Crag">Brombil Woods Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.7466651,51.571668,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bucketland]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bucketland">Bucketland</a></b>]]></description>
+			<Point>
+				<coordinates>-4.079205,51.562304,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Buckland Hill]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Buckland_Hill">Buckland Hill</a></b>]]></description>
+			<Point>
+				<coordinates>-3.241255,51.884167,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Burry Holms]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Burry_Holms">Burry Holms</a></b>]]></description>
+			<Point>
+				<coordinates>-4.312907,51.608717,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Bwlch Mountain Road]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Bwlch_Mountain_Road">Bwlch Mountain Road</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5322668,51.6459159,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Calcite Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Calcite_Bay">Calcite Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-4.304148,51.564993,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Carbon Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Carbon_Slab">Carbon Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.305359,51.563995,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Castaway Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Castaway_Cove">Castaway Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.29554,51.569045,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Castle Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Castle_Quarry">Castle Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.255558,51.535699,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Castle Upon Alun]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Castle_Upon_Alun">Castle Upon Alun</a></b>]]></description>
+			<Point>
+				<coordinates>-3.571838,51.466967,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Caswell Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Caswell_Bay">Caswell Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-4.036611,51.568715,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Catacomb Gully]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Catacomb_Gully">Catacomb Gully</a></b>]]></description>
+			<Point>
+				<coordinates>-4.281652,51.561289,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cathedral Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cathedral_Wall">Cathedral Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.284839,51.561308,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cathole Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cathole_Cave">Cathole Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-4.1123902,51.5898992,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cave Inlet]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cave_Inlet">Cave Inlet</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6040641,51.441406,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cefn Coed - East]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cefn_Coed_-_East">Cefn Coed - East</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3984702,51.765239,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cefn Coed - West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cefn_Coed_-_West">Cefn Coed - West</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4002147,51.764481,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cefnpennar]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cefnpennar">Cefnpennar</a></b>]]></description>
+			<Point>
+				<coordinates>-3.39999,51.70242,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cefnstylle Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cefnstylle_Quarry">Cefnstylle Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.064993,51.646625,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cheesy Rider Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cheesy_Rider_Area">Cheesy Rider Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.577147,51.759469,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cilfrew Main Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cilfrew_Main_Crag">Cilfrew Main Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.7866968,51.682792,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cilfrew Outlying Areas]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cilfrew_Outlying_Areas">Cilfrew Outlying Areas</a></b>]]></description>
+			<Point>
+				<coordinates>-3.7878626,51.6817,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cilfrew Ravens Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cilfrew_Ravens_Cliff">Cilfrew Ravens Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.7863256,51.683341,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Clogau Mawr]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Clogau_Mawr">Clogau Mawr</a></b>]]></description>
+			<Point>
+				<coordinates>-3.851872,51.857187,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Clydach Vale Bogmonster Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Clydach_Vale_Bogmonster_Quarry">Clydach Vale Bogmonster Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.488374,51.628019,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Clydach Vale Cambrian Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Clydach_Vale_Cambrian_Quarry">Clydach Vale Cambrian Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.477354,51.63232,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Coed Ely]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Coed_Ely">Coed Ely</a></b>]]></description>
+			<Point>
+				<coordinates>-3.412639,51.561698,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Coedcaerau-bach]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Coedcaerau-bach">Coedcaerau-bach</a></b>]]></description>
+			<Point>
+				<coordinates>-3.354268,51.53926,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Conglomerate Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Conglomerate_Cliff">Conglomerate Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-4.285425,51.561858,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Conservative Club Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Conservative_Club_Crag">Conservative Club Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.9906,51.57206,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Costa del Major]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Costa_del_Major">Costa del Major</a></b>]]></description>
+			<Point>
+				<coordinates>-3.480009,51.393078,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cox's Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cox%27s_Quarry">Cox's Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.133614,51.6215,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Crab Island Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Crab_Island_Crag">Crab Island Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.99835,51.56463,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Crag Y]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Crag_Y">Crag Y</a></b>]]></description>
+			<Point>
+				<coordinates>-4.230999,51.542067,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig Alltacham]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_Alltacham">Craig Alltacham</a></b>]]></description>
+			<Point>
+				<coordinates>-3.8495376,51.7277693,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig Cwm]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_Cwm">Craig Cwm</a></b>]]></description>
+			<Point>
+				<coordinates>-3.911298,51.72996,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig Tyle-Cam]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_Tyle-Cam">Craig Tyle-Cam</a></b>]]></description>
+			<Point>
+				<coordinates>-3.609588,51.696601,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig Y Castell]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_Y_Castell">Craig Y Castell</a></b>]]></description>
+			<Point>
+				<coordinates>-3.187568,51.842509,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig Y Castell Western Extension]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_Y_Castell_Western_Extension">Craig Y Castell Western Extension</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2052583,51.842784,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig y Nos]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_y_Nos">Craig y Nos</a></b>]]></description>
+			<Point>
+				<coordinates>-3.682372,51.820991,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Craig y Pal-Glais]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Craig_y_Pal-Glais">Craig y Pal-Glais</a></b>]]></description>
+			<Point>
+				<coordinates>-3.872254,51.688471,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Crawley Woods Rocks]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Crawley_Woods_Rocks">Crawley Woods Rocks</a></b>]]></description>
+			<Point>
+				<coordinates>-4.1388014,51.570694,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Crosskeys Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Crosskeys_Quarry">Crosskeys Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.12443,51.63251,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Crymlyn Quarries]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Crymlyn_Quarries">Crymlyn Quarries</a></b>]]></description>
+			<Point>
+				<coordinates>-3.13635,51.686193,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Culver Hole]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Culver_Hole">Culver Hole</a></b>]]></description>
+			<Point>
+				<coordinates>-4.21423,51.5393,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwm]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwm">Cwm</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1840762,51.736364,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwm Capel]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwm_Capel">Cwm Capel</a></b>]]></description>
+			<Point>
+				<coordinates>-4.2429346,51.69581,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwm Dimbath]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwm_Dimbath">Cwm Dimbath</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5149399,51.595178,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwm Ivy Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwm_Ivy_Tor">Cwm Ivy Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.261869,51.623789,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwm Leyshon Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwm_Leyshon_Quarry">Cwm Leyshon Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.139208,51.574285,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwmafan]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwmafan">Cwmafan</a></b>]]></description>
+			<Point>
+				<coordinates>-3.779051707,51.602904,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwmaman Main]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwmaman_Main">Cwmaman Main</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4376907,51.68459,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwmaman West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwmaman_West">Cwmaman West</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4467351,51.681924,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Cwmcarn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Cwmcarn">Cwmcarn</a></b>]]></description>
+			<Point>
+				<coordinates>-3.129065,51.638413,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dan Dicks]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dan_Dicks">Dan Dicks</a></b>]]></description>
+			<Point>
+				<coordinates>-3.41877,51.624221,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dan-y-Darren Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dan-y-Darren_Quarry">Dan-y-Darren Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.414618,51.772029,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Darren Fach]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Darren_Fach">Darren Fach</a></b>]]></description>
+			<Point>
+				<coordinates>-3.423564,51.78454,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Darren Fawr]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Darren_Fawr">Darren Fawr</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4201791,51.78095,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Darren Fawr (Garw Valley)]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Darren_Fawr_(Garw_Valley)">Darren Fawr (Garw Valley)</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5956836,51.622706,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Davy Jones' Locker and the Sea Caves]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Davy_Jones%27_Locker_and_the_Sea_Caves">Davy Jones' Locker and the Sea Caves</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6177795,51.4514745,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Deborah's Overhang]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Deborah%27s_Overhang">Deborah's Overhang</a></b>]]></description>
+			<Point>
+				<coordinates>-4.261632,51.55383,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Deborah's Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Deborah%27s_Zawn">Deborah's Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.263138,51.553892,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Deri]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Deri">Deri</a></b>]]></description>
+			<Point>
+				<coordinates>-3.256872,51.696736,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Devil's Cwm]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Devil%27s_Cwm">Devil's Cwm</a></b>]]></description>
+			<Point>
+				<coordinates>-4.249505,51.547428,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Devil's Truck]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Devil%27s_Truck">Devil's Truck</a></b>]]></description>
+			<Point>
+				<coordinates>-4.28742,51.561764,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dinas - Main Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dinas_-_Main_Slab">Dinas - Main Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-3.577719,51.759695,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dinas Main Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dinas_Main_Crag">Dinas Main Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.572933,51.760546,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dirty Harry Walls]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dirty_Harry_Walls">Dirty Harry Walls</a></b>]]></description>
+			<Point>
+				<coordinates>-3.615872,51.450875,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Drumau Road]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Drumau_Road">Drumau Road</a></b>]]></description>
+			<Point>
+				<coordinates>-3.846663,51.665426,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dunraven Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dunraven_Cliff">Dunraven Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.60503,51.442431,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dunvant Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dunvant_Quarry">Dunvant Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.029495,51.62778,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dyffryn Crawnon]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dyffryn_Crawnon">Dyffryn Crawnon</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3174958,51.8260376,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Dyffryn Woods Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Dyffryn_Woods_Crag">Dyffryn Woods Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.84168,51.6843,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Eastern Edge]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Eastern_Edge">Eastern Edge</a></b>]]></description>
+			<Point>
+				<coordinates>-3.15176946,51.830079048459,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Edmonston Quarry and Edge]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Edmonston_Quarry_and_Edge">Edmonston Quarry and Edge</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4327769,51.604945,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Elephant Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Elephant_Wall">Elephant Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.62132,51.453131,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Engine Room Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Engine_Room_Slab">Engine Room Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.235688,51.542514,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Eos Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Eos_Zawn">Eos Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.252918,51.5494,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Equal Opportunities Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Equal_Opportunities_Wall">Equal Opportunities Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.0987,51.565703,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Evening Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Evening_Wall">Evening Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.303813,51.565597,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Every Persons Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Every_Persons_Wall">Every Persons Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.604335,51.441437,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Eyeball Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Eyeball_Wall">Eyeball Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.285699,51.561632,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Fat Lady Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Fat_Lady_Wall">Fat Lady Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.304955,51.564042,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ferndale Lower Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ferndale_Lower_Quarry">Ferndale Lower Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4557306,51.666043,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ferndale Main]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ferndale_Main">Ferndale Main</a></b>]]></description>
+			<Point>
+				<coordinates>-3.455565,51.662003,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ferndale Right]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ferndale_Right">Ferndale Right</a></b>]]></description>
+			<Point>
+				<coordinates>-3.455277,51.663609,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Fernlea Slabs - Risca]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Fernlea_Slabs_-_Risca">Fernlea Slabs - Risca</a></b>]]></description>
+			<Point>
+				<coordinates>-3.10248,51.61751,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Fetlock Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Fetlock_Zawn">Fetlock Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.250472,51.548528,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ First Corner]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/First_Corner">First Corner</a></b>]]></description>
+			<Point>
+				<coordinates>-4.11921,51.57022,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ First Inlet]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/First_Inlet">First Inlet</a></b>]]></description>
+			<Point>
+				<coordinates>-3.606109,51.441603,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ First Sister]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/First_Sister">First Sister</a></b>]]></description>
+			<Point>
+				<coordinates>-4.265838,51.5553,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Folded Walls]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Folded_Walls">Folded Walls</a></b>]]></description>
+			<Point>
+				<coordinates>-3.60585,51.442213,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Fools Fantasy Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Fools_Fantasy_Area">Fools Fantasy Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.622311,51.453443,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Four Gullies]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Four_Gullies">Four Gullies</a></b>]]></description>
+			<Point>
+				<coordinates>-4.281283,51.560991,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Foxhole Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Foxhole_Cove">Foxhole Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.092269,51.564963,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Froglane Old Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Froglane_Old_Quarry">Froglane Old Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.245084,51.619932,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Gelli]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Gelli">Gelli</a></b>]]></description>
+			<Point>
+				<coordinates>-3.472546,51.640823,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Gelliwastad]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Gelliwastad">Gelliwastad</a></b>]]></description>
+			<Point>
+				<coordinates>-3.914317,51.695131,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Giant's Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Giant%27s_Cave">Giant's Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-4.288136,51.561734,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Gilwern East]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Gilwern_East">Gilwern East</a></b>]]></description>
+			<Point>
+				<coordinates>-3.0922611,51.803465,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Gilwern Hill - Crag X]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Gilwern_Hill_-_Crag_X">Gilwern Hill - Crag X</a></b>]]></description>
+			<Point>
+				<coordinates>-3.106964,51.812906,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Gimp Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Gimp_Cliff">Gimp Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2281989,51.744474,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Glyn Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Glyn_Quarry">Glyn Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.0746536,51.689108,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Glynfach]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Glynfach">Glynfach</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4043906,51.603673,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Golden Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Golden_Wall">Golden Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.080948,51.562057,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Golf Club Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Golf_Club_Crag">Golf Club Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.324675,51.607539,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Graig Fawr]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Graig_Fawr">Graig Fawr</a></b>]]></description>
+			<Point>
+				<coordinates>-3.734944,51.56696,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Graigola]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Graigola">Graigola</a></b>]]></description>
+			<Point>
+				<coordinates>-3.86663,51.69682,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Graves End East]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Graves_End_East">Graves End East</a></b>]]></description>
+			<Point>
+				<coordinates>-4.063488,51.558051,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Graves End Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Graves_End_Wall">Graves End Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.065578,51.55837,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Great Tor Proper]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Great_Tor_Proper">Great Tor Proper</a></b>]]></description>
+			<Point>
+				<coordinates>-4.122941,51.568593,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Grey Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Grey_Wall">Grey Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.279876,51.561926,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Hairy Dog Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Hairy_Dog_Wall">Hairy Dog Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.286631,51.56191,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Heatherslade Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Heatherslade_Bay">Heatherslade Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-4.088588,51.564105,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Henllys Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Henllys_Quarry">Henllys Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.0763274,51.643929,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Herberts Quarry (Black Mountain)]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Herberts_Quarry_(Black_Mountain)">Herberts Quarry (Black Mountain)</a></b>]]></description>
+			<Point>
+				<coordinates>-3.83599,51.854417,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ High Pennard]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/High_Pennard">High Pennard</a></b>]]></description>
+			<Point>
+				<coordinates>-4.066858,51.558755,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ High Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/High_Slab">High Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.119365,51.570572,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Hills Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Hills_Tor">Hills Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.271713,51.623133,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Hollow Top]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Hollow_Top">Hollow Top</a></b>]]></description>
+			<Point>
+				<coordinates>-4.252035,51.549568,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Holys Wash Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Holys_Wash_Buttress">Holys Wash Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.168107,51.546538,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Horses Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Horses_Cliff">Horses Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-4.250826,51.548562,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ifton Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ifton_Quarry">Ifton Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-2.779963,51.596172,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ilston Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ilston_Quarry">Ilston Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.0883425,51.5955699,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Inflated Roundhead Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Inflated_Roundhead_Area">Inflated Roundhead Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.576814,51.759528,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Inn Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Inn_Crag">Inn Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.741261,51.692652,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Jacky's Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Jacky%27s_Tor">Jacky's Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.285503,51.56125,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Juniper Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Juniper_Wall">Juniper Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.253615,51.549429,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Keel Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Keel_Buttress">Keel Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.302128,51.566325,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Kennelgarth Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Kennelgarth_Wall">Kennelgarth Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.574461,51.760154,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Kilvey Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Kilvey_Quarry">Kilvey Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.9128813,51.626753,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ King Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/King_Wall">King Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.289088,51.561742,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Kitchen Corner]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Kitchen_Corner">Kitchen Corner</a></b>]]></description>
+			<Point>
+				<coordinates>-4.306523,51.563678,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Lewes Castle]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Lewes_Castle">Lewes Castle</a></b>]]></description>
+			<Point>
+				<coordinates>-4.289296,51.562208,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Lewistown]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Lewistown">Lewistown</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5404247,51.586257,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Liberty Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Liberty_Zawn">Liberty Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.255661,51.550013,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Lifebuoy Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Lifebuoy_Buttress">Lifebuoy Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.301817,51.566113,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Little Arched Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Little_Arched_Slab">Little Arched Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.098424,51.565632,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Little Block]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Little_Block">Little Block</a></b>]]></description>
+			<Point>
+				<coordinates>-4.286222,51.562028,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Little Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Little_Tor">Little Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.12798,51.56937,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llanbradach Lower Tier]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llanbradach_Lower_Tier">Llanbradach Lower Tier</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2339153,51.598057,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llanbradach Upper Tier]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llanbradach_Upper_Tier">Llanbradach Upper Tier</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2352617,51.597808,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llandarcy]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llandarcy">Llandarcy</a></b>]]></description>
+			<Point>
+				<coordinates>-3.8581428,51.644697,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llangattock]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llangattock">Llangattock</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1583333,51.832463,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llangynidr Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llangynidr_Quarry">Llangynidr Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2251105,51.8432143,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llanstephan-Craig Ddu]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llanstephan-Craig_Ddu">Llanstephan-Craig Ddu</a></b>]]></description>
+			<Point>
+				<coordinates>-4.43016904,51.76520157,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llantrisant Drugs Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llantrisant_Drugs_Cliff">Llantrisant Drugs Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.383063,51.542323,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llwynypia]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llwynypia">Llwynypia</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4577067,51.633693,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Llyn Brianne]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Llyn_Brianne">Llyn Brianne</a></b>]]></description>
+			<Point>
+				<coordinates>-3.7638795,52.120552,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Longhole Cave Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Longhole_Cave_Buttress">Longhole Cave Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.234897,51.543001,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Longhole Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Longhole_Cliff">Longhole Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-4.234185,51.542191,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Love Of Ivy Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Love_Of_Ivy_Area">Love Of Ivy Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.576589,51.759592,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Lower Cave Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Lower_Cave_Area">Lower Cave Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.573455,51.759543,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Maerdy - Rhondda Fach]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Maerdy_-_Rhondda_Fach">Maerdy - Rhondda Fach</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4909782,51.674531,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Marble Arch]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Marble_Arch">Marble Arch</a></b>]]></description>
+			<Point>
+				<coordinates>-4.084331,51.56206,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mermaid Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mermaid_Wall">Mermaid Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.298232,51.568416,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mewslade Quarry Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mewslade_Quarry_Slab">Mewslade Quarry Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.274609,51.564481,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mewslade Short Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mewslade_Short_Wall">Mewslade Short Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.278316,51.562032,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Minchen Hole]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Minchen_Hole">Minchen Hole</a></b>]]></description>
+			<Point>
+				<coordinates>-4.085623,51.5621,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mitzy Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mitzy_Wall">Mitzy Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.614387,51.45033,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Molar Wall and White Edge]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Molar_Wall_and_White_Edge">Molar Wall and White Edge</a></b>]]></description>
+			<Point>
+				<coordinates>-4.283165,51.561316,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Monty's Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Monty%27s_Slab">Monty's Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.119346,51.570162,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Morfa Bychan and Pendine]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Morfa_Bychan_and_Pendine">Morfa Bychan and Pendine</a></b>]]></description>
+			<Point>
+				<coordinates>-4.569089,51.73766,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Morlais Quarries]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Morlais_Quarries">Morlais Quarries</a></b>]]></description>
+			<Point>
+				<coordinates>-3.382083,51.778883,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mount Pleasant]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mount_Pleasant">Mount Pleasant</a></b>]]></description>
+			<Point>
+				<coordinates>-3.326186,51.672212,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mount Pleasant (X2)]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mount_Pleasant_(X2)">Mount Pleasant (X2)</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3301932,51.677186,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mountain Ash]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mountain_Ash">Mountain Ash</a></b>]]></description>
+			<Point>
+				<coordinates>-3.364094,51.677583,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mountain Ash Natural Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mountain_Ash_Natural_Buttress">Mountain Ash Natural Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3644959,51.677728,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mountain Ash West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mountain_Ash_West">Mountain Ash West</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3853287,51.674997,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Mumbles Light House Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Mumbles_Light_House_Cave">Mumbles Light House Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-3.97113,51.56653,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Nash Point]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Nash_Point">Nash Point</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5600719,51.402817,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Navigation Quarry - Cilfynydd]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Navigation_Quarry_-_Cilfynydd">Navigation Quarry - Cilfynydd</a></b>]]></description>
+			<Point>
+				<coordinates>-3.320671,51.637311,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Neath Abbey Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Neath_Abbey_Quarry">Neath Abbey Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.84446,51.67244,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ New Tredegar]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/New_Tredegar">New Tredegar</a></b>]]></description>
+			<Point>
+				<coordinates>-3.221367,51.705168,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ North Hill Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/North_Hill_Tor">North Hill Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.236871,51.622161,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Oakdale]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Oakdale">Oakdale</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1808342,51.682348,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Odin's Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Odin%27s_Cave">Odin's Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-4.121902,51.568967,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Odin's Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Odin%27s_Wall">Odin's Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.1217401,51.5689669,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ogmore Popular End]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ogmore_Popular_End">Ogmore Popular End</a></b>]]></description>
+			<Point>
+				<coordinates>-3.622041,51.453234,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Overton Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Overton_Cliff">Overton Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-4.2287817,51.541894,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Oxwich Point]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Oxwich_Point">Oxwich Point</a></b>]]></description>
+			<Point>
+				<coordinates>-4.156058,51.543053,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Oxwich Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Oxwich_Quarry">Oxwich Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.149905,51.549351,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pant Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pant_Quarry">Pant Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.59449687,51.4725549,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pantheon]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pantheon">Pantheon</a></b>]]></description>
+			<Point>
+				<coordinates>-4.082273,51.561964,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Park Wood Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Park_Wood_Quarry">Park Wood Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-4.111677,51.588134,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Paviland Far Far Far West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Paviland_Far_Far_Far_West">Paviland Far Far Far West</a></b>]]></description>
+			<Point>
+				<coordinates>-4.258116,51.550288,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Paviland Far Far West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Paviland_Far_Far_West">Paviland Far Far West</a></b>]]></description>
+			<Point>
+				<coordinates>-4.2568414,51.5508372,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Paviland Far West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Paviland_Far_West">Paviland Far West</a></b>]]></description>
+			<Point>
+				<coordinates>-4.2566854,51.550372,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Paviland Main Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Paviland_Main_Cliff">Paviland Main Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-4.255659,51.550345,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Paviland Way Out West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Paviland_Way_Out_West">Paviland Way Out West</a></b>]]></description>
+			<Point>
+				<coordinates>-4.258066,51.550892,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pen Pych]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pen_Pych">Pen Pych</a></b>]]></description>
+			<Point>
+				<coordinates>-3.565994,51.684593,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Penallta]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Penallta">Penallta</a></b>]]></description>
+			<Point>
+				<coordinates>-3.246825,51.645867,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pennard Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pennard_Buttress">Pennard Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.068604,51.559764,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Penrhiwceiber Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Penrhiwceiber_Quarry">Penrhiwceiber Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3691683,51.670347,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Phaser Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Phaser_Wall">Phaser Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6172964,51.4511359,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Platform Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Platform_Area">Platform Area</a></b>]]></description>
+			<Point>
+				<coordinates>-4.30439,51.56528,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Playtime Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Playtime_Wall">Playtime Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.60347,51.441493,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pobbles Bays]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pobbles_Bays">Pobbles Bays</a></b>]]></description>
+			<Point>
+				<coordinates>-4.109186,51.569777,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pobbles Quarries]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pobbles_Quarries">Pobbles Quarries</a></b>]]></description>
+			<Point>
+				<coordinates>-4.102638,51.567037,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ponterwydd]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ponterwydd">Ponterwydd</a></b>]]></description>
+			<Point>
+				<coordinates>-3.8532212,52.411402,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pontrhydyfen]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pontrhydyfen">Pontrhydyfen</a></b>]]></description>
+			<Point>
+				<coordinates>-3.742444,51.63187,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pontygwaith Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pontygwaith_Quarry">Pontygwaith Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.435046,51.635361,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Port Eynon Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Port_Eynon_Cave">Port Eynon Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-4.210449,51.537225,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Port Eynon Cave 2]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Port_Eynon_Cave_2">Port Eynon Cave 2</a></b>]]></description>
+			<Point>
+				<coordinates>-4.210034,51.537246,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Port Eynon Quarries]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Port_Eynon_Quarries">Port Eynon Quarries</a></b>]]></description>
+			<Point>
+				<coordinates>-4.213922,51.540634,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Porth]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Porth">Porth</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4037018,51.615049,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Poser Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Poser_Buttress">Poser Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.304904,51.564773,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Prawn Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Prawn_Zawn">Prawn Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.083517,51.561819,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Prissen's Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Prissen%27s_Tor">Prissen's Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.275357,51.619862,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Punk Rocks]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Punk_Rocks">Punk Rocks</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4174748,51.608452,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Pwll Du Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Pwll_Du_Bay">Pwll Du Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-4.059829,51.562591,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Quartz Corner]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Quartz_Corner">Quartz Corner</a></b>]]></description>
+			<Point>
+				<coordinates>-4.077738,51.561697,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ramp Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ramp_Zawn">Ramp Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.117544,51.570307,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Rams Grove Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Rams_Grove_Crag">Rams Grove Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-4.267076,51.55659,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Rams Grove Seaward Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Rams_Grove_Seaward_Crag">Rams Grove Seaward Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-4.267799,51.556076,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Rams Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Rams_Tor">Rams Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-3.993518,51.563556,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ravens Cliff Gully]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ravens_Cliff_Gully">Ravens Cliff Gully</a></b>]]></description>
+			<Point>
+				<coordinates>-4.098614,51.565561,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Red Chamber]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Red_Chamber">Red Chamber</a></b>]]></description>
+			<Point>
+				<coordinates>-4.271506,51.557349,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Red Jacket Pill]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Red_Jacket_Pill">Red Jacket Pill</a></b>]]></description>
+			<Point>
+				<coordinates>-3.846963,51.633805,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Retribution Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Retribution_Wall">Retribution Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.300356,51.567155,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Richards Rock]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Richards_Rock">Richards Rock</a></b>]]></description>
+			<Point>
+				<coordinates>-4.276806,51.563522,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ridgeway]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ridgeway">Ridgeway</a></b>]]></description>
+			<Point>
+				<coordinates>-3.201592,51.629326,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Right Hand Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Right_Hand_Wall">Right Hand Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6143329,51.4499155,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Rolly Bottom Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Rolly_Bottom_Buttress">Rolly Bottom Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.284171,51.561792,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Saddam's Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Saddam%27s_Wall">Saddam's Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.264955,51.557763,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Seacombe Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Seacombe_Slab">Seacombe Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-3.904447,51.626108,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Seamen Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Seamen_Wall">Seamen Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.296596,51.569174,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Seaspit Small Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Seaspit_Small_Cove">Seaspit Small Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.259691,51.553422,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Second Corner]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Second_Corner">Second Corner</a></b>]]></description>
+			<Point>
+				<coordinates>-4.119753,51.569805,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Second Inlet]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Second_Inlet">Second Inlet</a></b>]]></description>
+			<Point>
+				<coordinates>-3.604864,51.441395,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Second Sister]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Second_Sister">Second Sister</a></b>]]></description>
+			<Point>
+				<coordinates>-4.265686,51.555061,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Secret Taffs Well]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Secret_Taffs_Well">Secret Taffs Well</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2598406,51.538584,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Senghenydd]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Senghenydd">Senghenydd</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2755029,51.609607,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sheepbone Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sheepbone_Wall">Sheepbone Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.300633,51.56719,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sheriff Quarry - Maerdy]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sheriff_Quarry_-_Maerdy">Sheriff Quarry - Maerdy</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4919472,51.67545,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Shipwreck Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Shipwreck_Cove">Shipwreck Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.29483,51.56896,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Shire Combe Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Shire_Combe_Buttress">Shire Combe Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.102537,51.565584,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Silent Fright Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Silent_Fright_Buttress">Silent Fright Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.303595,51.565188,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Silent Walls]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Silent_Walls">Silent Walls</a></b>]]></description>
+			<Point>
+				<coordinates>-4.303461,51.565321,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sinister Sister Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sinister_Sister_Zawn">Sinister Sister Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.301587,51.566464,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sinners Walls]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sinners_Walls">Sinners Walls</a></b>]]></description>
+			<Point>
+				<coordinates>-4.304656,51.564559,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Siocled Seren Pysgod Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Siocled_Seren_Pysgod_Quarry">Siocled Seren Pysgod Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1311893,51.716345,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sirhowy - Quarry Mawr]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sirhowy_-_Quarry_Mawr">Sirhowy - Quarry Mawr</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1502545,51.612307,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sister 2 and Half]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sister_2_and_Half">Sister 2 and Half</a></b>]]></description>
+			<Point>
+				<coordinates>-4.264437,51.554436,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Space Mountain]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Space_Mountain">Space Mountain</a></b>]]></description>
+			<Point>
+				<coordinates>-3.5707,51.67966,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Stalking Horse Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Stalking_Horse_Zawn">Stalking Horse Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.251479,51.548705,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Stallion Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Stallion_Cove">Stallion Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.258683,51.551088,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Stone Wings Cliff]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Stone_Wings_Cliff">Stone Wings Cliff</a></b>]]></description>
+			<Point>
+				<coordinates>-3.60432,51.442508,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Stout Point]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Stout_Point">Stout Point</a></b>]]></description>
+			<Point>
+				<coordinates>-3.478126,51.392084,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sugardaddy Gasworks]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sugardaddy_Gasworks">Sugardaddy Gasworks</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3497518,51.571104,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sully Island]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sully_Island">Sully Island</a></b>]]></description>
+			<Point>
+				<coordinates>-3.199511,51.396153,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Sunnybank]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Sunnybank">Sunnybank</a></b>]]></description>
+			<Point>
+				<coordinates>-4.034783,51.624062,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Swffryd Wood Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Swffryd_Wood_Quarry">Swffryd Wood Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.12314,51.68403,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ TV Zawn]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/TV_Zawn">TV Zawn</a></b>]]></description>
+			<Point>
+				<coordinates>-4.262108,51.553588,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Taf Fechan]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Taf_Fechan">Taf Fechan</a></b>]]></description>
+			<Point>
+				<coordinates>-3.360876,51.784887,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Taffs Well]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Taffs_Well">Taffs Well</a></b>]]></description>
+			<Point>
+				<coordinates>-3.257189,51.536579,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Taffs Well Pinnacle]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Taffs_Well_Pinnacle">Taffs Well Pinnacle</a></b>]]></description>
+			<Point>
+				<coordinates>-3.260297,51.542279,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Taffs Well West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Taffs_Well_West">Taffs Well West</a></b>]]></description>
+			<Point>
+				<coordinates>-3.267939,51.537797,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Taffs West Railway Cutting]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Taffs_West_Railway_Cutting">Taffs West Railway Cutting</a></b>]]></description>
+			<Point>
+				<coordinates>-3.263316,51.535709,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tears Point]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tears_Point">Tears Point</a></b>]]></description>
+			<Point>
+				<coordinates>-4.296507,51.55984,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Telpyn Point - Amroth]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Telpyn_Point_-_Amroth">Telpyn Point - Amroth</a></b>]]></description>
+			<Point>
+				<coordinates>-4.629388,51.734,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Aisle]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Aisle">The Aisle</a></b>]]></description>
+			<Point>
+				<coordinates>-4.284079,51.561474,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Biscuit]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Biscuit">The Biscuit</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6186752,51.4523136,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Castle Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Castle_Area">The Castle Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6197838,51.4525004,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Crag That Time Forgot]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Crag_That_Time_Forgot">The Crag That Time Forgot</a></b>]]></description>
+			<Point>
+				<coordinates>-4.265923,51.557328,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Darren]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Darren">The Darren</a></b>]]></description>
+			<Point>
+				<coordinates>-3.344559,51.6115613,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Dell]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Dell">The Dell</a></b>]]></description>
+			<Point>
+				<coordinates>-4.167102,51.694035,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Farm]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Farm">The Farm</a></b>]]></description>
+			<Point>
+				<coordinates>-3.48814,51.63641,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Gap]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Gap">The Gap</a></b>]]></description>
+			<Point>
+				<coordinates>-3.330898,51.65793,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Great Tower]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Great_Tower">The Great Tower</a></b>]]></description>
+			<Point>
+				<coordinates>-4.066419,51.558276,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Hole]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Hole">The Hole</a></b>]]></description>
+			<Point>
+				<coordinates>-4.25965,51.551322,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Knave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Knave">The Knave</a></b>]]></description>
+			<Point>
+				<coordinates>-4.263013,51.552871,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Lonely Shepherd]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Lonely_Shepherd">The Lonely Shepherd</a></b>]]></description>
+			<Point>
+				<coordinates>-3.1343896,51.82264082,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Long Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Long_Wall">The Long Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6037531,51.4414281,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Prows]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Prows">The Prows</a></b>]]></description>
+			<Point>
+				<coordinates>-4.284275,51.561468,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Pulpit]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Pulpit">The Pulpit</a></b>]]></description>
+			<Point>
+				<coordinates>-4.284452,51.561432,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ The Western Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/The_Western_Crag">The Western Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-3.622776,51.453745,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Third Sister]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Third_Sister">Third Sister</a></b>]]></description>
+			<Point>
+				<coordinates>-4.263057,51.554057,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Three Cliffs]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Three_Cliffs">Three Cliffs</a></b>]]></description>
+			<Point>
+				<coordinates>-4.11139,51.569941,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Thurba East]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Thurba_East">Thurba East</a></b>]]></description>
+			<Point>
+				<coordinates>-4.2744,51.558083,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Thurba East Gully]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Thurba_East_Gully">Thurba East Gully</a></b>]]></description>
+			<Point>
+				<coordinates>-4.272306,51.557709,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Thurba Head]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Thurba_Head">Thurba Head</a></b>]]></description>
+			<Point>
+				<coordinates>-4.279271,51.558822,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Thurba West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Thurba_West">Thurba West</a></b>]]></description>
+			<Point>
+				<coordinates>-4.278393,51.560998,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tiger Bay]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tiger_Bay">Tiger Bay</a></b>]]></description>
+			<Point>
+				<coordinates>-3.620625,51.452824,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tirpentwys]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tirpentwys">Tirpentwys</a></b>]]></description>
+			<Point>
+				<coordinates>-3.090722,51.69379,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ton Pentre]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ton_Pentre">Ton Pentre</a></b>]]></description>
+			<Point>
+				<coordinates>-3.48372,51.64898,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tooth Fairy]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tooth_Fairy">Tooth Fairy</a></b>]]></description>
+			<Point>
+				<coordinates>-4.262429,51.553687,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tor Gro]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tor_Gro">Tor Gro</a></b>]]></description>
+			<Point>
+				<coordinates>-4.227353,51.621189,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Trebanog]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Trebanog">Trebanog</a></b>]]></description>
+			<Point>
+				<coordinates>-3.425766,51.601966,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Trefil]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Trefil">Trefil</a></b>]]></description>
+			<Point>
+				<coordinates>-3.311231,51.825688,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Trehafod]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Trehafod">Trehafod</a></b>]]></description>
+			<Point>
+				<coordinates>-3.383923,51.611946,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Treherbert Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Treherbert_Quarry">Treherbert Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.538399,51.667596,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Trial Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Trial_Wall">Trial Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.300424,51.566857,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Trident Gully and Ridge]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Trident_Gully_and_Ridge">Trident Gully and Ridge</a></b>]]></description>
+			<Point>
+				<coordinates>-4.281924,51.561135,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Troedyrhiw]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Troedyrhiw">Troedyrhiw</a></b>]]></description>
+			<Point>
+				<coordinates>-3.337441,51.707666,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Turberville Road Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Turberville_Road_Quarry">Turberville Road Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.417624,51.621459,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tusker Chimney Area]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tusker_Chimney_Area">Tusker Chimney Area</a></b>]]></description>
+			<Point>
+				<coordinates>-3.621156,51.452948,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Twinkle Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Twinkle_Buttress">Twinkle Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-3.6225426,51.4535262,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Twynau Gwynion Quarries]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Twynau_Gwynion_Quarries">Twynau Gwynion Quarries</a></b>]]></description>
+			<Point>
+				<coordinates>-3.358695,51.78468,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tyle y Coch]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tyle_y_Coch">Tyle y Coch</a></b>]]></description>
+			<Point>
+				<coordinates>-3.135846,51.654088,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tylorstown Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tylorstown_Quarry">Tylorstown Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.425395,51.65232,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Tyn-y-coed]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Tyn-y-coed">Tyn-y-coed</a></b>]]></description>
+			<Point>
+				<coordinates>-3.322476,51.539026,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Upper Blackhole Crag]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Upper_Blackhole_Crag">Upper Blackhole Crag</a></b>]]></description>
+			<Point>
+				<coordinates>-4.241541,51.544457,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Upper Jacky's Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Upper_Jacky%27s_Tor">Upper Jacky's Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.28472,51.561781,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Upper Mountain Ash]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Upper_Mountain_Ash">Upper Mountain Ash</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3699891,51.692585,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Utopia Slabs]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Utopia_Slabs">Utopia Slabs</a></b>]]></description>
+			<Point>
+				<coordinates>-4.099682,51.565793,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Vaynor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Vaynor">Vaynor</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4038332,51.781806,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Watch House East]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Watch_House_East">Watch House East</a></b>]]></description>
+			<Point>
+				<coordinates>-4.094245,51.565539,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Watch House Slab]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Watch_House_Slab">Watch House Slab</a></b>]]></description>
+			<Point>
+				<coordinates>-4.096438,51.565784,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Wedge Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Wedge_Wall">Wedge Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.300759,51.566653,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Wenvoe Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Wenvoe_Quarry">Wenvoe Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.2550323,51.459783,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ West Promontory Corner]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/West_Promontory_Corner">West Promontory Corner</a></b>]]></description>
+			<Point>
+				<coordinates>-4.095296,51.565272,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ West Tor]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/West_Tor">West Tor</a></b>]]></description>
+			<Point>
+				<coordinates>-4.129828,51.570017,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ White Cove]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/White_Cove">White Cove</a></b>]]></description>
+			<Point>
+				<coordinates>-4.100271,51.565481,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ White Edge]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/White_Edge">White Edge</a></b>]]></description>
+			<Point>
+				<coordinates>-4.097373,51.565675,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ White Pillar]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/White_Pillar">White Pillar</a></b>]]></description>
+			<Point>
+				<coordinates>-4.24771,51.546657,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Windy Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Windy_Buttress">Windy Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.304897,51.564384,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Witches Cave]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Witches_Cave">Witches Cave</a></b>]]></description>
+			<Point>
+				<coordinates>-3.605996,51.4421271,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Witches Tip]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Witches_Tip">Witches Tip</a></b>]]></description>
+			<Point>
+				<coordinates>-3.606431,51.441733,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Worms Head]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Worms_Head">Worms Head</a></b>]]></description>
+			<Point>
+				<coordinates>-4.331069,51.56499,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Yellow Buttress]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Yellow_Buttress">Yellow Buttress</a></b>]]></description>
+			<Point>
+				<coordinates>-4.249204,51.547746,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Yellow Wall]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Yellow_Wall">Yellow Wall</a></b>]]></description>
+			<Point>
+				<coordinates>-4.286106,51.562144,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ynysboeth]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ynysboeth">Ynysboeth</a></b>]]></description>
+			<Point>
+				<coordinates>-3.336697,51.65975,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ynyshir Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ynyshir_Quarry">Ynyshir Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.40583,51.620446,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ynyshir West]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ynyshir_West">Ynyshir West</a></b>]]></description>
+			<Point>
+				<coordinates>-3.4166952,51.624112,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ynysybwl Lady Windsor Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ynysybwl_Lady_Windsor_Quarry">Ynysybwl Lady Windsor Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.358257,51.639661,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Ynysybwl Upper Quarry]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Ynysybwl_Upper_Quarry">Ynysybwl Upper Quarry</a></b>]]></description>
+			<Point>
+				<coordinates>-3.3514867,51.640394,0</coordinates>
+			</Point>
+		</Placemark>
+		
+		<Placemark>
+			<name><![CDATA[ Zero Gully]]></name>
+			<description><![CDATA[ <b><a href="https://swcw.org.uk/wiki/Zero_Gully">Zero Gully</a></b>]]></description>
+			<Point>
+				<coordinates>-4.280994,51.561113,0</coordinates>
+			</Point>
+		</Placemark>
+		
+	</Document>
+</kml>
